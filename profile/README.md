@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="banner.jpg" alt="Malwarecraft Logo" width="100%" style="max-width: 600px; border-radius: 8px;">
+
 # Malwarecraft
 
 **Educational research collective dedicated to malware development, security tools, and game mechanics.**

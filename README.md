@@ -4,8 +4,7 @@
 
 **Educational research collective dedicated to malware development, security tools, and game mechanics.**
 
-[![GitHub stars](https://img.shields.io/github/stars/Malwarecraft?style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/Malwarecraft)
-[![GitHub forks](https://img.shields.io/github/forks/Malwarecraft?style=for-the-badge&color=0d1117&labelColor=161b22)](https://github.com/Malwarecraft)
+[![GitHub Repos](https://img.shields.io/badge/GitHub-Malware--Craft-0d1117?style=for-the-badge&logo=github&labelColor=161b22)](https://github.com/Malware-Craft)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0d1117.svg?style=for-the-badge&labelColor=161b22)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -30,7 +29,7 @@ Our goal is to explore low-level programming, reverse engineering, software prot
 
 ### 💻 Tech Stack & Focus Areas
 
-`C` • `C++` • `Assembly (x86/x64)` • `Python` • `Reverse Engineering` • `Win32 API` • `Kernel Drivers`
+`C` • `C++` • `Assembly (x86/x64)` • `Reverse Engineering` • `Win32 API` • `Kernel Drivers`
 
 ---
 
